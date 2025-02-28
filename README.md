@@ -4,5 +4,5 @@ A formula-guided network prediction model, CMD-FGKpuu, which performed well on m
 #### TOC graphics
 
 <div align=center>
-	<img src="https://github.com/zyrlia1018/CMD_FGKpuu/raw/main/toc/toc.tif" width="50%"/>
+	<img src="https://github.com/zyrlia1018/CMD_FGKpuu/raw/main/toc/toc.png" width="50%"/>
 </div>
